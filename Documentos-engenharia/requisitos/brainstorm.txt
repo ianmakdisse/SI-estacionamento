@@ -1,0 +1,3 @@
+Fazer um software que controle a permanência de veiculos, isso é a entrada e saida de veiculos, através da placa e assim controlando o pagamento dos veiculos pelo tempo que estão no estacionamento.
+um aplicativo com um front-end simples que o operador do estacionamento, digita placa e modelo do carro. e com isso fazer a aplicação direto para o back-end que libera uma ocorrência e conte o tempo e na hora de sair, encerra essa aplicação.
+Fazer um software de caixa ligado diretamente ao de controle de veiculos, que pelo tempo calcule o preço e controle o fluxo de dinheiro, reiniciando diariamente. 
